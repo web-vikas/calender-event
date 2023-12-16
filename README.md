@@ -53,3 +53,10 @@ Add the following line to the .env file, replacing YOUR_MONGODB_URI with your ac
   ```bash
   npm run dev 
   ```
+### Screens 
+<img src="https://catimages.org/images/2023/12/17/Screenshot-2023-12-16-221111.png" alt="Screenshot-2023-12-16-221111.png" border="0">
+<img src="https://catimages.org/images/2023/12/17/Screenshot-2023-12-16-221120.png" alt="Screenshot-2023-12-16-221120.png" border="0">
+<img src="https://catimages.org/images/2023/12/17/Screenshot-2023-12-16-221143.png" alt="Screenshot-2023-12-16-221143.png" border="0">
+<img src="https://catimages.org/images/2023/12/17/Screenshot-2023-12-16-221202.png" alt="Screenshot-2023-12-16-221202.png" border="0">
+<img src="https://catimages.org/images/2023/12/17/Screenshot-2023-12-16-221211.png" alt="Screenshot-2023-12-16-221211.png" border="0">
+<img src="https://catimages.org/images/2023/12/17/Screenshot-2023-12-16-221248.png" alt="Screenshot-2023-12-16-221248.png" border="0">
